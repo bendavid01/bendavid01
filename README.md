@@ -60,4 +60,4 @@ I'm a self-driven tech learner from Kerala, India — working across **cybersecu
 
 ---
 
-*Background in B.Com (Computer Applications & Taxation) · Kerala, India*
+*Background in B.Com (Taxation) · Kerala, India*
