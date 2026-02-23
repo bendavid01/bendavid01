@@ -1,16 +1,63 @@
-<h1 align="center">Hi 👋, I'm David Ben</h1>
-<h3 align="center">passionate Python developer with a knack for crafting elegant and efficient code. With a creative mind and a love for problem-solving, Alex dives deep into the world of programming, constantly seeking innovative solutions to challenges.</h3>
+# Hi, I'm David 👋
 
-- 🌱 I’m currently learning **Full Stack Python Django**
+I'm a self-driven tech learner from Kerala, India — working across **cybersecurity** and **web development**. I build things, break things (legally), and document what I learn.
 
-- 💬 Ask me about **react**
+---
 
-- 📫 How to reach me **davidvarghese@150@gmail.com**
+## 🔐 Cybersecurity
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-ben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-ben" height="30" width="40" /></a>
-</p>
+- Advanced Diploma in Information Security
+- Government-certified Penetration Tester (NCERT)
+- Hands-on with Linux, networking, and beginner penetration testing
+- CTF-style lab practice: enumeration, web exploitation, privilege escalation
+- Currently preparing for **CompTIA Security+**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Tools I work with:**
+`nmap` · `gobuster` · `enum4linux` · `netcat` · `Burp Suite` · `GTFOBins` · `Linux CLI`
+
+---
+
+## 🌐 Web Development
+
+- Built and deployed a full-stack web app using **Next.js**, **TypeScript**, **Tailwind CSS**, and **Sanity CMS**
+- Comfortable with component-based architecture and headless CMS patterns
+- Deployed on **Vercel** with a two-repo frontend/backend structure
+
+**Stack:**
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Sanity` · `Vercel` · `Git`
+
+---
+
+## 🤖 Local AI / LLM Setup
+
+- Configured a local LLM environment using **Ollama** on Windows 11
+- Runs multiple models with defined roles (general, code, structured reasoning)
+- Created a custom modelfile with a baked-in system prompt
+- Implemented symbolic link storage management across drives
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [X-Gamer League Web](https://github.com/bendavid01/xgamer-league-web) | Live gaming league platform — match schedules, standings, community | Next.js, TypeScript, Tailwind, Sanity |
+| [X-Gamer League Studio](https://github.com/bendavid01/xgamer-league-studio) | Headless CMS backend for the league — content schemas and management | Sanity Studio, TypeScript |
+
+---
+
+## 📚 Currently
+
+- 📖 Studying for **CompTIA Security+**
+- 🔧 Expanding web projects
+- 🎯 Building toward a career in **cybersecurity and/or full-stack development**
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Ben-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/david-ben)
+
+---
+
+*Background in B.Com (Computer Applications & Taxation) · Kerala, India*
